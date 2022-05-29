@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "app to create team profile generator ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+@github.com:OscarH1025/teamprofile.git"
+  },
+  "author": "Oscar",
+  "license": "NONE",
+  "bugs": {
+    "url": "https://github.com/OscarH1025/teamprofile/issues"
+  },
+  "homepage": "https://github.com/OscarH1025/teamprofile",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
